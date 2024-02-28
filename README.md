@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=amuse98&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amuse98&layout=compact)](https://github.com/amuse98/github-readme-stats)
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amuse98)](https://solved.ac/amuse98/)
 -->
