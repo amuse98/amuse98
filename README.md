@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ### Certificates
-![](https://github.com/amuse98/amuse98/blob/main/files/SoloLearn_Certificate_Angular.png)
+
+![](./files/SoloLearn_Certificate_Angular.png)
 
  
 # :mailbox_with_mail: Contacts
