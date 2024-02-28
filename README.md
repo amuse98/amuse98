@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tvNnhwbmJ6bXEza29peWtrZXkzanEyd3E3ZjQyMW94cm8zNGpkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fegzospsGS6Os/giphy.gif)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famuse98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=amuse98&show_icons=true&theme=radical)
