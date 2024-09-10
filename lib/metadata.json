@@ -1,0 +1,337 @@
+{
+  "vaultName": "Master",
+  "lastExport": 1726007935367,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon background-settings-workplace-theme-light-blue-mountain background-settings-workplace-theme-dark-night-sky background-image-settings-markdown-page-custom notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover folder-icons remove-arrow bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap anp-theme-ext-light anp-theme-ext-dark anp-theme-ext-amoled ctp-notion-light ctp-notion-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "사물인터넷 개론/ch1. 산업혁명의 역사.md",
+    "사물인터넷 개론/ch2. 4차 산업혁명 개요, 특징 및 전망.md",
+    "사물인터넷 개론/ch3. 4차 산업혁명 시대의 서비스 기술 및 유망 산업분야.md",
+    "사물인터넷 개론/ch4. 초연결사회.md",
+    "사물인터넷 개론/ch5. 사물인터넷 소개.md",
+    "사물인터넷 개론/ch6. 지능형 사물인터넷 소개.md",
+    "사물인터넷 개론/ch7. 국가별 사물인터넷 추진 현황.md",
+    "사물인터넷 개론/ch8. 사물인터넷 서비스 제품 분야.md",
+    "사물인터넷 개론/ch9.  사물인터넷 서비스 응용분야.md",
+    "사물인터넷 개론/ch10. 사물인터넷 디바이스 및 센서.md",
+    "사물인터넷 개론/ch11. 사물인터넷 솔루션 칩 현황.md",
+    "사물인터넷 개론/ch12. 반도체와 사물인터넷.md",
+    "사물인터넷 개론/ch13. 접속망 기술.md",
+    "사물인터넷 개론/ch14. 5G 네트워크.md",
+    "사물인터넷 개론/ch15. 6G와 서비스.md",
+    "사물인터넷 개론/ch16. 사물인터넷 플랫폼.md",
+    "사물인터넷 개론/ch17. 사물인터넷 응용계층 프로토콜.md",
+    "사물인터넷 개론/ch18. 사물인터넷 보안 기술.md",
+    "사물인터넷 개론/ch19. 블록체인과 사물인터넷의 융합.md",
+    "사물인터넷 개론/ch20. 빅데이터.md",
+    "사물인터넷 개론/ch21. 클라우드 서비스와 컴퓨팅.md",
+    "사물인터넷 개론/ch22. Edge 컴퓨팅 기술.md",
+    "사물인터넷 개론/ch23. 4차 산업혁명과 스마트팩토리.md",
+    "사물인터넷 개론/ch24. 스마트팩토리 주요 기술 영역.md",
+    "사물인터넷 개론/ch25. 스마트팩토리 적용 사례.md",
+    "사물인터넷 개론/ch26. 사물인터넷 비즈니스 모델 및 활용 분야.md",
+    "사물인터넷 개론/ch27. 사물인터넷 비즈니스 활용 사례.md",
+    "사물인터넷 개론/ch28. 아두이노 이해 및 기초 실습.md",
+    "사물인터넷 개론/ch29. 아두이노 키트를 이용한 기초 실습.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "사물인터넷 개론/ch1. 산업혁명의 역사.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 2595,
+      "exportedPath": "사물인터넷 개론/ch1. 산업혁명의 역사.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch2. 4차 산업혁명 개요, 특징 및 전망.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 3442,
+      "exportedPath": "사물인터넷 개론/ch2. 4차 산업혁명 개요, 특징 및 전망.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch3. 4차 산업혁명 시대의 서비스 기술 및 유망 산업분야.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 12262,
+      "exportedPath": "사물인터넷 개론/ch3. 4차 산업혁명 시대의 서비스 기술 및 유망 산업분야.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch4. 초연결사회.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 6560,
+      "exportedPath": "사물인터넷 개론/ch4. 초연결사회.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch5. 사물인터넷 소개.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 4056,
+      "exportedPath": "사물인터넷 개론/ch5. 사물인터넷 소개.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch6. 지능형 사물인터넷 소개.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 8133,
+      "exportedPath": "사물인터넷 개론/ch6. 지능형 사물인터넷 소개.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch7. 국가별 사물인터넷 추진 현황.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 4832,
+      "exportedPath": "사물인터넷 개론/ch7. 국가별 사물인터넷 추진 현황.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch8. 사물인터넷 서비스 제품 분야.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 8603,
+      "exportedPath": "사물인터넷 개론/ch8. 사물인터넷 서비스 제품 분야.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch9.  사물인터넷 서비스 응용분야.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 20716,
+      "exportedPath": "사물인터넷 개론/ch9.  사물인터넷 서비스 응용분야.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch10. 사물인터넷 디바이스 및 센서.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 6646,
+      "exportedPath": "사물인터넷 개론/ch10. 사물인터넷 디바이스 및 센서.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch11. 사물인터넷 솔루션 칩 현황.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 4708,
+      "exportedPath": "사물인터넷 개론/ch11. 사물인터넷 솔루션 칩 현황.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch12. 반도체와 사물인터넷.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 23843,
+      "exportedPath": "사물인터넷 개론/ch12. 반도체와 사물인터넷.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch13. 접속망 기술.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 24102,
+      "exportedPath": "사물인터넷 개론/ch13. 접속망 기술.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch14. 5G 네트워크.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 14362,
+      "exportedPath": "사물인터넷 개론/ch14. 5G 네트워크.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch15. 6G와 서비스.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 6093,
+      "exportedPath": "사물인터넷 개론/ch15. 6G와 서비스.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch16. 사물인터넷 플랫폼.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 10664,
+      "exportedPath": "사물인터넷 개론/ch16. 사물인터넷 플랫폼.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch17. 사물인터넷 응용계층 프로토콜.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 3956,
+      "exportedPath": "사물인터넷 개론/ch17. 사물인터넷 응용계층 프로토콜.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch18. 사물인터넷 보안 기술.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 10284,
+      "exportedPath": "사물인터넷 개론/ch18. 사물인터넷 보안 기술.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch19. 블록체인과 사물인터넷의 융합.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 33210,
+      "exportedPath": "사물인터넷 개론/ch19. 블록체인과 사물인터넷의 융합.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch20. 빅데이터.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 12055,
+      "exportedPath": "사물인터넷 개론/ch20. 빅데이터.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch21. 클라우드 서비스와 컴퓨팅.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 10695,
+      "exportedPath": "사물인터넷 개론/ch21. 클라우드 서비스와 컴퓨팅.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch22. Edge 컴퓨팅 기술.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 18184,
+      "exportedPath": "사물인터넷 개론/ch22. Edge 컴퓨팅 기술.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch23. 4차 산업혁명과 스마트팩토리.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 4788,
+      "exportedPath": "사물인터넷 개론/ch23. 4차 산업혁명과 스마트팩토리.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch24. 스마트팩토리 주요 기술 영역.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 10867,
+      "exportedPath": "사물인터넷 개론/ch24. 스마트팩토리 주요 기술 영역.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch25. 스마트팩토리 적용 사례.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 3933,
+      "exportedPath": "사물인터넷 개론/ch25. 스마트팩토리 적용 사례.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch26. 사물인터넷 비즈니스 모델 및 활용 분야.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 9601,
+      "exportedPath": "사물인터넷 개론/ch26. 사물인터넷 비즈니스 모델 및 활용 분야.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch27. 사물인터넷 비즈니스 활용 사례.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 7791,
+      "exportedPath": "사물인터넷 개론/ch27. 사물인터넷 비즈니스 활용 사례.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch28. 아두이노 이해 및 기초 실습.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 16504,
+      "exportedPath": "사물인터넷 개론/ch28. 아두이노 이해 및 기초 실습.html",
+      "dependencies": []
+    },
+    "사물인터넷 개론/ch29. 아두이노 키트를 이용한 기초 실습.md": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 27059,
+      "exportedPath": "사물인터넷 개론/ch29. 아두이노 키트를 이용한 기초 실습.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1726007935367,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
